@@ -3,12 +3,16 @@ Calculations of whether refereeing is different inside the bubble
 
 DATASET EXPLANATIONS
 
+YEAR- year game was played
+
 MONTH- month game was played
 
-YEAR- year game was played
-HOME- home team assigned that game
-AWAY- away team assigned that game
-TYPE- Regular season (1) or scrimmate (0)
-HOME SCORE- end game home team's score
-AWAY SCORE- away team's end game score
-WIN- whether the home team won (1) or lost (0)
+DAY- day game was played
+
+HOME- home team (abbreviation)
+
+AWAY- away team (abbreviation)
+
+SCORE- team's score
+
+OUTCOME- 1 win / 0 loss
