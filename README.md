@@ -2,7 +2,9 @@
 Calculations of whether refereeing is different inside the bubble
 
 DATASET EXPLANATIONS
+
 MONTH- month game was played
+
 YEAR- year game was played
 HOME- home team assigned that game
 AWAY- away team assigned that game
