@@ -1,18 +1,3 @@
 # NBABubbleAdvantage
-Calculations of whether refereeing is different inside the bubble
+Calculations of whether fans have an impact on referees, studied through the difference in foul calls inside and outside of the Bubble
 
-DATASET EXPLANATIONS
-
-YEAR- year game was played
-
-MONTH- month game was played
-
-DAY- day game was played
-
-HOME- home team (abbreviation)
-
-AWAY- away team (abbreviation)
-
-SCORE- team's score
-
-OUTCOME- 1 win / 0 loss
